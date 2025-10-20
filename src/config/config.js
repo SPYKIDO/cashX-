@@ -4,9 +4,9 @@ require('dotenv').config();
 const CONFIG = {
     // Bot Information
     bot: {
-        name: "Shotdevs AI Assistant",
+        name: "cashX ꜰʀᴇᴇ/ᴩᴀɪᴅ",
         version: "1.0.0",
-        description: "AI-powered Discord bot for Shotdevs custom Discord bots and web development services",
+        description: "AI-powered Discord bot for cashX ꜰʀᴇᴇ/ᴩᴀɪᴅ custom Discord bots and web development services",
         activity: "Shotdevs AI",
         activityType: "PLAYING"
     },
